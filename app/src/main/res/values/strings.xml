@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WeatherApplication</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+
+    <string name="city_name">City Name</string>
+    <string name="send_request">Send Request</string>
+    <string name="loading">Loading…</string>
+</resources>
